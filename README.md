@@ -62,7 +62,7 @@ Here’s an example of data inserted into the database:
 <div style="text-align:justify">
 
 ````shell
-git clone https://github.com/korhanertancakmak/EmployeeApplication
+git clone https://github.com/korhanertancakmak/employeeApplication.git
 cd employeeApplication
 ````
 </div>
